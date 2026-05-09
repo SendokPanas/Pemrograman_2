@@ -132,7 +132,8 @@ nav ul {
   display: flex;
   gap: 3rem;
 }
-
+.nav-item:hover{
+  transform : scale(1.2);
 /* Logo */
 .logo {
   display: flex;
